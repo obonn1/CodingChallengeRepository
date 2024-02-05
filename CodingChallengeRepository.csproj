@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Codewars\kyu 5\" />
-  </ItemGroup>
-
 </Project>
